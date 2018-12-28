@@ -291,5 +291,12 @@ defaults:
       share: true
       related: true
       
-category_dir: category/
-tag_dir: tag/
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About
+   url: /about
+ - title: Categories
+   url: /category
+ - title: Contact
+   url: /contact
