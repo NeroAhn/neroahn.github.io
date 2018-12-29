@@ -1,7 +1,6 @@
 ---
-layout: post
-title:  "Hello World!"
-date:   2018-12-28 13:30:01 -0900
-category: [os]
+title: "Welcome to Jekyll!"
+date: 2017-10-20 08:26:28 -0400
+categories: jekyll update
 ---
-Hello World~!
+Hello world
