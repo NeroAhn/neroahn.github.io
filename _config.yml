@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "NeoAhn의 개발 블로그"
+title                    : "NeoAhn"
 title_separator          : "-"
 name                     : "NeoAhn"
 description              : "An amazing website."
